@@ -21,7 +21,7 @@ SUSPICIOUS_STRINGS = [
     (b"-encodedcommand", 25, "PowerShell encoded command"),
     (b"powershell -enc", 25, "PowerShell encoded command"),
     (b"frombase64string", 10, "Base64 decoding in code"),
-    (b"vssadmin delete shadows", 40, "shadow copy deletion (common in ransomware)"),
+    (b"vssadmin delete shadows", 40, "shadow copy deletion"),
     (b"wscript.shell", 10, "command execution through WScript.Shell"),
     (b"urldownloadtofile", 15, "file download from the internet"),
     (b"createremotethread", 15, "code injection into another process (CreateRemoteThread)"),
@@ -29,7 +29,7 @@ SUSPICIOUS_STRINGS = [
     (b"writeprocessmemory", 15, "writing to another process's memory"),
     (b"currentversion\\run", 10, "adding itself to startup"),
 ]
-STRINGS_CAP = 60  
+STRINGS_CAP = 60
 
 @dataclass
 class HeuristicResult:
