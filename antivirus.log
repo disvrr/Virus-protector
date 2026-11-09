@@ -1,0 +1,17 @@
+2026-11-09 12:22:59 [INFO] Baseline created: 2 files (C:\Users\Serg\AppData\Local\Temp\tmpa_05_ndh\baseline.json)
+2026-11-09 12:22:59 [WARNING] [INTEGRITY] Modified: a.txt
+2026-11-09 12:22:59 [WARNING] [INTEGRITY] Deleted: b.txt
+2026-11-09 12:22:59 [WARNING] [INTEGRITY] New file: c.txt
+2026-11-09 12:22:59 [INFO] Quarantined: C:\Users\Serg\AppData\Local\Temp\tmp4uzpohh9\bad2.bin -> 3d861424d1c9.quar ()
+2026-11-09 12:22:59 [INFO] Deleted from quarantine: 3d861424d1c9
+2026-11-09 12:22:59 [INFO] Quarantined: C:\Users\Serg\AppData\Local\Temp\tmpu4ljdsj1\bad.bin -> 33bae99b67d1.quar (test)
+2026-11-09 12:22:59 [INFO] Restored from quarantine: C:\Users\Serg\AppData\Local\Temp\tmpu4ljdsj1\bad.bin
+2026-11-09 12:23:00 [WARNING] Could not read C:\Users\Serg\AppData\Local\Temp\tmpzyxt9alx\eicar.com: [Errno 22] Invalid argument: 'C:\\Users\\Serg\\AppData\\Local\\Temp\\tmpzyxt9alx\\eicar.com'
+2026-11-09 12:23:17 [INFO] Baseline created: 2 files (C:\Users\Serg\AppData\Local\Temp\tmp_5iy3rq2\baseline.json)
+2026-11-09 12:23:17 [WARNING] [INTEGRITY] Modified: a.txt
+2026-11-09 12:23:17 [WARNING] [INTEGRITY] Deleted: b.txt
+2026-11-09 12:23:17 [WARNING] [INTEGRITY] New file: c.txt
+2026-11-09 12:23:17 [INFO] Quarantined: C:\Users\Serg\AppData\Local\Temp\tmp7y693gao\bad2.bin -> af21a0d40720.quar ()
+2026-11-09 12:23:17 [INFO] Deleted from quarantine: af21a0d40720
+2026-11-09 12:23:17 [INFO] Quarantined: C:\Users\Serg\AppData\Local\Temp\tmporffsfwh\bad.bin -> 15529cf2ff98.quar (test)
+2026-11-09 12:23:17 [INFO] Restored from quarantine: C:\Users\Serg\AppData\Local\Temp\tmporffsfwh\bad.bin
